@@ -1,6 +1,6 @@
 {
-  "version": "2.3.1",
-  "title": "HoangDuc Android Tool v2.3.1",
-  "notes": "Cap nhat HoangDuc Android Tool v2.3.1 - Fix AUTO ADB, Fix App Name, Fix Portable Build.",
-  "download_url": "https://github.com/dthgduc-cmyk/Repository-name-HoangDuc-Volte-Update/releases/download/2.3.1/HoangDuc_Android_Tool_v2.3.1.zip"
+  "version": "2.3.3",
+  "title": "HoangDuc Android Tool v2.3.3",
+  "notes": "Fix AUTO VoLTE APK mapping: Android 8+ = HoangDuc IMS, Android 10 = Pixel IMS Android 10, Android 11+ = Pixel IMS Android 11+.",
+  "download_url": "https://github.com/dthgduc-cmyk/Repository-name-HoangDuc-Volte-Update/releases/download/2.3.3/HoangDuc_Android_Tool_v2.3.3.zip"
 }
