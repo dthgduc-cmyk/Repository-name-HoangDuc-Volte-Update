@@ -1,7 +1,7 @@
 {
-  "version": "2.3.3",
-  "title": "HoangDuc Android Tool v2.3.3",
-  "notes": "Fix AUTO VOLTE APK mapping: Android 8+ = HoangDuc IMS, Android 10 = Pixel IMS Android 10, Android 11+ = Pixel IMS Android 11+.",
-  "download_url": "https://github.com/dthgduc-cmyk/Repository-name-HoangDuc-Volte-Update/releases/download/2.3.3/HoangDuc_Android_Tool_v2.3.3.zip",
-  "sha256": "396e7ae6e4d37b0d67c3b394a724581969622c297eabb732ab84302855361cfe"
+  "version": "2.6.21",
+  "title": "HoangDuc Android Tool v2.6.21",
+  "notes": "Cập nhật HoangDuc Android Tool v2.6.21 - cải thiện Android 8+, IMS/VoLTE Verify, nhận diện trạng thái mạng và độ ổn định.",
+  "download_url": "https://github.com/dthgduc-cmyk/Repository-name-HoangDuc-Volte-Update/releases/download/2.6.21/HoangDuc_Android_Tool_v2.6.21.zip",
+  "sha256": "sha256:3c7b579f3645bf70e569afa836bb14f3159c01317b405456871beeb6cc8efbfb"
 }
